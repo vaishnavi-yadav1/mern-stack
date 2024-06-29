@@ -1,0 +1,6 @@
+# Ensure text files have correct line endings
+* text=auto
+
+# Specific overrides for certain file types
+*.sh text eol=lf
+*.bat text eol=crlf
